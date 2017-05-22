@@ -1,3 +1,9 @@
+# echarts in Python
+
+echarts is a python package of echarts.
+
+
+# Test
 * http://data-journalism.github.io/echarts3/echarts-map-visualMap-continuous.html
 * http://data-journalism.github.io/echarts3/echarts_0_model_full.html
 * http://data-journalism.github.io/echarts3/echarts_5min.html
